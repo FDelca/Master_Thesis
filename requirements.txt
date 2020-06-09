@@ -7,3 +7,4 @@ impyute==0.0.8
 missingpy==0.2.0
 missingno==0.4.2
 tsmetrics==0.1.0
+holidays==0.10.2
